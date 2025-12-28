@@ -37,7 +37,17 @@ git clone https://github.com/parsamehrpooshan/BotoCar
 cd project-name
 ```
 
-3. اجرای پروژه :
+
+3. نصب پکیج‌ها  :
+
+
+
+```bash
+npm install
+```
+
+
+4. اجرای پروژه :
 
 
 ```bash
